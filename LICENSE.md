@@ -1,4 +1,4 @@
-# 
+# advanced SQL Server Management Studio for PC | SQL Server Management Studio for Windows Snippet | data-import-export + version-control-integration offers the most advanced SQL
 
 
 
